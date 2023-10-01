@@ -98,7 +98,13 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Priyanshu from Meta Part 1",
         github: "https://github.com/Priyanshu9801"
 
-    },
+    }
+    {
+        handle_name: 'KumarHarsh18',
+        name: "Harsh Kumar",
+        description: "Hello World! Myself Harsh Kumar civil!",
+        github: "https://github.com/KumarHarsh18"
+    },,
 ];
 
 export default CONTRIBUTERS;
